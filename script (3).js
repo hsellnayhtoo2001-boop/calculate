@@ -35,7 +35,7 @@ function calculateDivision(){
 }
 //john Doe
 
-// 25 years old
 // htoo thar
+
 
 
