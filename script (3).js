@@ -34,3 +34,8 @@ function calculateDivision(){
   document.getElementById("result4").textContent = res;
 }
 //john Doe
+
+// 25 years old
+// htoo thar
+
+
